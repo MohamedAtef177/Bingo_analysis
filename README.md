@@ -11,7 +11,7 @@ Calculations using Formula or Pivot Table:
 
 a. Identified and ranked the Top 20 Products per Sold.
 b. Determined and ranked the Top 10 Reps per Count of Order number.
-c. Evaluated and ranked the Top & Worst 10 Brands per Value.
+c. Evaluated and ranked the Top and worst 10 Brands per Value.
 d. Ranked the Month in Each Store.
 e. Ranked Reps in Each Store.
 f. Ranked Products in Each Brand.
@@ -37,7 +37,7 @@ Deliverables
 Cleaned Excel Workbook
 Data Warehouse Backup File
 SSIS Solution Folder
-Please ensure correct attachment.
+Please ensure the correct attachment.
 Power BI Dashboard File
 Presentation File
 Includes snapshots of the star schema and SSIS pipelines created during the project.
